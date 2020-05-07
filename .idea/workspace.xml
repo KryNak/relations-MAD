@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61740359-349b-418a-96ad-7e6ece760218" name="Default Changelist" comment="" />
+    <list default="true" id="61740359-349b-418a-96ad-7e6ece760218" name="Default Changelist" comment="1.0">
+      <change afterPath="$PROJECT_DIR$/src/Engine/FunctionModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextFiles/Output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Engine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Engine/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextFiles/Input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/TextFiles/Input.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aXLe1Gw02guzVam3WU45LZsACe" />
   <component name="PropertiesComponent">
@@ -69,10 +78,29 @@
       <workItem from="1587124529054" duration="22000" />
       <workItem from="1587125075367" duration="44000" />
       <workItem from="1587193402670" duration="383000" />
+      <workItem from="1588597357861" duration="134000" />
+      <workItem from="1588872160822" duration="1132000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
   </component>
 </project>
